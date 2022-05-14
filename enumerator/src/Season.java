@@ -40,6 +40,7 @@ public enum Season {
 			System.out.println(a.getTaste());
 			System.out.println(a.id);
 			System.out.println(a.taste);
+			System.out.println("end of program");
 		}
 		
 		
